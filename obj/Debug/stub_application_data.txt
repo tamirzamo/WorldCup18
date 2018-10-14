@@ -1,0 +1,2 @@
+android.app.Application
+WorldCup18.WorldCup18
